@@ -1,4 +1,4 @@
-remote_theme: "mmistakes/minimal-mistakes"
+theme: jekyll-theme-minimal
 title: Doze's homepage
 description: Bookmark this to keep an eye on my project updates!
 
