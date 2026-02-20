@@ -1,6 +1,9 @@
-theme: jekyll-theme-minimal
+remote_theme: "mmistakes/minimal-mistakes"
 title: Doze's homepage
 description: Bookmark this to keep an eye on my project updates!
+
+minimal:
+  skin: dark
 
 header_pages:
   - about.md
